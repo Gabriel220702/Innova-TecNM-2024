@@ -40,7 +40,7 @@ Amoxtli-Jap ha sido presentado en diversas competencias y ferias tecnológicas, 
 ---
 
 ## 👥 **Integrantes del Equipo**  
-El proyecto ha sido desarrollado por un equipo comprometido de estudiantes de Ingeniería Mecatrónica, enfocados en la innovación y aplicación de tecnología para el beneficio social.  
+El proyecto ha sido desarrollado por un equipo comprometido de estudiantes de Ingeniería Mecatrónica e Ingeniería en Administración de Empresas, enfocados en la innovación y aplicación de tecnología para el beneficio social.  
 
 ---
 
