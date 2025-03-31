@@ -33,8 +33,8 @@ Amoxtli-Jap es un dispositivo vestible en forma de cinturón o chaleco diseñado
 ## 🏆 **Participación en Eventos**  
 Amoxtli-Jap ha sido presentado en diversas competencias y ferias tecnológicas, destacando en las siguientes etapas:  
 
-1. 🏫 **Innovatec Etapa Local** - Instituto Tecnológico de Guadalupe Victoria.  
-2. 🏙️ **Innovatec Etapa Regional** - Instituto Tecnológico de Nuevo León, Monterrey.  
+1. 🏫 **Innovatec Etapa Local** - Instituto Tecnológico Superior de la Región de los Llanos, Guadalupe Victoria, Durango.  
+2. 🏙️ **Innovatec Etapa Regional** - Instituto Tecnológico de Nuevo León, Monterrey, Nuevo León.  
 3. 🏅 **COCYTED** - Centro de Ciencia y Tecnología del Estado de Durango, Victoria de Durango, Durango.  
 
 ---
