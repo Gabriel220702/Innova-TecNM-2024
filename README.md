@@ -1,4 +1,4 @@
-# 🛡💜**Amoxtli-Jap**  
+# 💜**Amoxtli-Jap**💜  
 
 ## 📌 **Autor:** Gabriel Carrizales  
 📍 **Institución:** Instituto Tecnológico Superior de la Región de los Llanos (ITSRLL)  
@@ -71,6 +71,6 @@ Para más información sobre el proyecto Amoxtli-Jap, puedes ponerte en contacto
 </p> 
 
 
-🚀 **¡Innovando por el bienestar de nuestros adultos mayores!** 💙
+🚀 **¡Innovando por el bienestar de nuestros adultos mayores!** 💙💜
 
 
