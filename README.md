@@ -26,21 +26,21 @@ Amoxtli-Jap es un dispositivo vestible en forma de cinturón o chaleco diseñado
 - Integración con Google Maps para rastrear la posición del usuario.  
 
 🔹 **Alertas de Emergencia** 📢  
-- Notificaciones inmediatas mediante sonido y mensajes.  
+- Notificaciones inmediatas mediante sonido y mensajes vía WhatsApp.  
 
 ---
 
 ## 🏆 **Participación en Eventos**  
 Amoxtli-Jap ha sido presentado en diversas competencias y ferias tecnológicas, destacando en las siguientes etapas:  
 
-1. 🏫 **Innovatec Etapa Local** - Instituto Tecnológico Superior de la Región de los Llanos, Guadalupe Victoria, Durango.  
-2. 🏙️ **Innovatec Etapa Regional** - Instituto Tecnológico de Nuevo León, Monterrey, Nuevo León.  
-3. 🏅 **COCYTED** - Durango, Durango.  
+1. 🏫 **Innovatec Etapa Local** - Instituto Tecnológico de Guadalupe Victoria.  
+2. 🏙️ **Innovatec Etapa Regional** - Instituto Tecnológico de Nuevo León, Monterrey.  
+3. 🏅 **COCYTED** - Centro de Ciencia y Tecnología del Estado de Durango, Victoria de Durango, Durango.  
 
 ---
 
 ## 👥 **Integrantes del Equipo**  
-El proyecto ha sido desarrollado por un equipo comprometido de estudiantes de Ingeniería Mecatrónica e Ingeniería en Administración de Empresas, enfocados en la innovación y aplicación de tecnología para el beneficio social.  
+El proyecto ha sido desarrollado por un equipo comprometido de estudiantes de Ingeniería Mecatrónica, enfocados en la innovación y aplicación de tecnología para el beneficio social.  
 
 ---
 
@@ -48,30 +48,26 @@ El proyecto ha sido desarrollado por un equipo comprometido de estudiantes de In
 ✅ **ESP32** – Microcontrolador principal  
 ✅ **Neo-6M** – GPS para ubicación  
 ✅ **MPU6050** – Sensor de aceleración y giroscopio  
-✅ **C++** – Programación de algoritmos  
-✅ **HTML, CSS, JAVA SCRIPT, PHP, SQL** – Programación de página web  
+✅ **Python y C++** – Programación de algoritmos  
 ✅ **Google Maps API** – Integración de geolocalización  
-✅ **WhatsApp API** – Integración de mensajes de notificación  
 
 ---
 
 ## 📩 **Contacto**  
 Para más información sobre el proyecto Amoxtli-Jap, puedes ponerte en contacto a través de [amoxtlijap2024@gmail.com] o visitar nuestra página oficial o redes sociales.  
 
-Pagina Oficial: https://home.amoxtli-jap.com/index.php
-Facebok: https://www.facebook.com/profile.php?id=61563272744083
-Youtube: https://www.youtube.com/@Amoxtli-Jap 
+📌 **Página Oficial:** [Amoxtli-Jap](https://home.amoxtli-jap.com/index.php)  
+📌 **Facebook:** [Amoxtli-Jap en Facebook](https://www.facebook.com/profile.php?id=61563272744083)  
+📌 **YouTube:** [Amoxtli-Jap en YouTube](https://www.youtube.com/@Amoxtli-Jap)  
 
 ---
 
 <p align="center">
-
+  <img src="https://github.com/user-attachments/assets/44692bb6-525e-4351-b74e-da3e29d9e2d1" width="200">
   <img src="https://github.com/user-attachments/assets/527f2de1-e296-47e6-8068-30e5793aaef7" width="200">
-  <img src="https://github.com/user-attachments/assets/55cbca23-9a40-41d8-ad55-f69b567d20c5" width="200">
   <img src="https://github.com/user-attachments/assets/f13729f0-91dc-42d9-b046-10563d534dd7" width="200">
-
+  <img src="https://github.com/user-attachments/assets/ba4a20dc-a157-4912-86f8-0d0e96e55a8c" width="200">
 </p>  
 
 🚀 **¡Innovando por el bienestar de nuestros adultos mayores!** 💙
-
 
