@@ -65,7 +65,7 @@ Para más información sobre el proyecto Amoxtli-Jap, puedes ponerte en contacto
 <p align="center">
 
   <img src="https://github.com/user-attachments/assets/527f2de1-e296-47e6-8068-30e5793aaef7" width="150">
-  <img src="https://github.com/user-attachments/assets/55cbca23-9a40-41d8-ad55-f69b567d20c5" width="250">
+  <img src="https://github.com/user-attachments/assets/55cbca23-9a40-41d8-ad55-f69b567d20c5" width="220">
   <img src="https://github.com/user-attachments/assets/f13729f0-91dc-42d9-b046-10563d534dd7" width="200">
 
 </p> 
