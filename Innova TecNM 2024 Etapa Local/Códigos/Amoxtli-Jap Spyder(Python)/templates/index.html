@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Inicio</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+<header>
+    <h1>Bienvenido a Amoxtli-Jap</h1>
+</header>
+<nav>
+    <ul>
+        <li><a href="/">Inicio</a></li>
+        <li><a href="/about">Acerca de</a></li>
+    </ul>
+</nav>
+<main>
+    <p>Amoxtli-Jap es un avanzado sistema de alerta de caídas diseñado para adultos mayores. Utiliza tecnología de vanguardia, incluyendo sensores giroscópicos y acelerómetros, para detectar anomalías en el movimiento que podrían indicar una caída.</p>
+    <p>Nuestro objetivo es proporcionar una solución innovadora y eficaz para mejorar la seguridad y la calidad de vida de los adultos mayores, permitiéndoles mantener su independencia y tranquilidad en su entorno habitual.</p>
+    <p>Con Amoxtli-Jap, puedes estar tranquilo sabiendo que tus seres queridos están siendo monitoreados de manera continua y que recibirás una alerta inmediata en caso de cualquier emergencia.</p>
+    <div id="alert-container"></div> <!-- Contenedor para mostrar la alerta -->
+</main>
+<footer>
+    <p>&copy; 2024 Fall Alert System</p>
+</footer>
+<script src="{{ url_for('static', filename='scripts.js') }}"></script>
+</body>
+</html>

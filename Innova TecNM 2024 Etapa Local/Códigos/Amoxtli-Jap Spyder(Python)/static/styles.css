@@ -1,0 +1,51 @@
+/* styles.css */
+
+/* Colores */
+:root {
+    --color-lila: #9B30FF;
+    --color-morado: #6A5ACD;
+    --color-azul-cielo: #87CEEB;
+    --color-azul-rey: #4169E1;
+    --color-blanco: #FFFFFF;
+    --color-negro: #000000;
+}
+
+/* Estilos Generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: var(--color-blanco); /* Fondo blanco */
+    color: var(--color-negro); /* Texto negro */
+}
+
+header {
+    background-color: var(--color-azul-rey); /* Encabezado azul rey */
+    color: var(--color-blanco); /* Texto blanco */
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: var(--color-azul-rey); /* Pie de página azul rey */
+    color: var(--color-blanco); /* Texto blanco */
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}

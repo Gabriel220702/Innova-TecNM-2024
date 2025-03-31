@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Acerca de</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+<header>
+    <h1 style="color: white;">Amoxtli-Jap</h1>
+</header>
+<nav>
+    <ul>
+        <li><a href="/">Inicio</a></li>
+        <li><a href="/about">Acerca de</a></li>
+    </ul>
+</nav>
+<main>
+    <p>Amoxtli-Jap es un avanzado dispositivo de monitoreo médico en forma de cinturón, diseñado específicamente para el seguimiento de adultos mayores. Este dispositivo está integrado con sensores de alta precisión que permiten una vigilancia continua y detallada del posicionamiento y movilidad del usuario. Su funcionamiento se basa en la utilización de tecnología de vanguardia, que incluye sensores giroscópicos y acelerómetros, junto con algoritmos sofisticados de procesamiento de datos para analizar los patrones de movimiento en tiempo real.</p>
+    <p>Al identificar una anomalía en el movimiento, como podría ser una caída, Amoxtli-Jap activa automáticamente un protocolo de alerta. Este protocolo comunica el incidente de forma inalámbrica a familiares, cuidadores o sistemas de respuesta médica de emergencia, asegurando una intervención rápida y eficaz.</p>
+    <p>El objetivo principal de este sistema es optimizar la capacidad de respuesta ante eventos críticos, minimizando así el riesgo de lesiones graves que pueden resultar de caídas. Además, proporciona una mayor sensación de seguridad a los usuarios y sus familias, permitiendo que los adultos mayores mantengan una vida más independiente y segura en su entorno habitual.</p>
+    <p>Este enfoque no solo mejora significativamente la seguridad y la calidad de vida de los individuos vulnerables, sino que también contribuye a la gestión proactiva de la salud en el ámbito domiciliario, reduciendo potencialmente la carga y los costos asociados a la atención médica de urgencias y hospitalizaciones prolongadas.</p>
+    <div id="alert-container"></div> <!-- Contenedor para mostrar la alerta -->
+</main>
+<footer>
+    <p>&copy; 2024 Fall Alert System</p>
+</footer>
+<script src="{{ url_for('static', filename='scripts.js') }}"></script>
+</body>
+</html>
